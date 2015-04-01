@@ -1,0 +1,165 @@
+E:\Development\MCoding1\MCoding1\bin\Debug\Assimp32.dll
+E:\Development\MCoding1\MCoding1\bin\Debug\Assimp64.dll
+E:\Development\MCoding1\MCoding1\bin\Debug\MCoding1.exe
+E:\Development\MCoding1\MCoding1\bin\Debug\MCoding1.pdb
+E:\Development\MCoding1\MCoding1\bin\Debug\SharpDX.D3DCompiler.dll
+E:\Development\MCoding1\MCoding1\bin\Debug\SharpDX.Direct2D1.dll
+E:\Development\MCoding1\MCoding1\bin\Debug\SharpDX.Direct3D11.dll
+E:\Development\MCoding1\MCoding1\bin\Debug\SharpDX.dll
+E:\Development\MCoding1\MCoding1\bin\Debug\SharpDX.DXGI.dll
+E:\Development\MCoding1\MCoding1\bin\Debug\SharpDX.Toolkit.Compiler.dll
+E:\Development\MCoding1\MCoding1\bin\Debug\SharpDX.Toolkit.dll
+E:\Development\MCoding1\MCoding1\bin\Debug\SharpDX.Toolkit.Game.dll
+E:\Development\MCoding1\MCoding1\bin\Debug\SharpDX.Toolkit.Graphics.dll
+E:\Development\MCoding1\MCoding1\bin\Debug\SharpDX.Toolkit.Input.dll
+E:\Development\MCoding1\MCoding1\bin\Debug\SharpDX.Toolkit.Yaml.dll
+E:\Development\MCoding1\MCoding1\bin\Debug\SharpYaml.dll
+E:\Development\MCoding1\MCoding1\bin\Debug\SharpDX.Direct3D9.dll
+E:\Development\MCoding1\MCoding1\bin\Debug\AssimpNet.dll
+E:\Development\MCoding1\MCoding1\bin\Debug\SharpDX.xml
+E:\Development\MCoding1\MCoding1\bin\Debug\SharpDX.D3DCompiler.xml
+E:\Development\MCoding1\MCoding1\bin\Debug\SharpDX.Direct2D1.xml
+E:\Development\MCoding1\MCoding1\bin\Debug\SharpDX.Direct3D11.xml
+E:\Development\MCoding1\MCoding1\bin\Debug\SharpDX.DXGI.xml
+E:\Development\MCoding1\MCoding1\bin\Debug\SharpDX.Toolkit.xml
+E:\Development\MCoding1\MCoding1\bin\Debug\SharpDX.Toolkit.Game.xml
+E:\Development\MCoding1\MCoding1\bin\Debug\SharpDX.Toolkit.Graphics.xml
+E:\Development\MCoding1\MCoding1\bin\Debug\SharpDX.Toolkit.Input.xml
+E:\Development\MCoding1\MCoding1\bin\Debug\SharpDX.Toolkit.Yaml.xml
+E:\Development\MCoding1\MCoding1\bin\Debug\SharpYaml.xml
+E:\Development\MCoding1\MCoding1\bin\Debug\SharpDX.Toolkit.Compiler.xml
+E:\Development\MCoding1\MCoding1\bin\Debug\SharpDX.Direct3D9.xml
+E:\Development\MCoding1\MCoding1\bin\Debug\AssimpNet.xml
+E:\Development\MCoding1\MCoding1\obj\Debug\MCoding1.csprojResolveAssemblyReference.cache
+E:\Development\MCoding1\MCoding1\obj\Debug\MCoding1.Properties.Resources.resources
+E:\Development\MCoding1\MCoding1\obj\Debug\MCoding1.csproj.GenerateResource.Cache
+E:\Development\MCoding1\MCoding1\obj\Debug\MCoding1.exe
+E:\Development\MCoding1\MCoding1\obj\Debug\MCoding1.pdb
+E:\Development\MCoding1\MCoding1\bin\Debug\Content\ground.tkb
+E:\Development\MCoding1\MCoding1\bin\Debug\Content\debugLine.tkb
+E:\Development\MCoding1\MCoding1\bin\Debug\Content\testLevel\ground.tkb
+E:\Development\MCoding1\MCoding1\bin\Debug\Content\testLevel\testLevel.xml
+E:\Development\MCoding1\MCoding1\bin\Debug\Content\Arial13.tkb
+E:\Development\MCoding1\MCoding1\obj\Debug\MCoding1.Forms.frmDebug.resources
+E:\Development\MCoding1\MCoding1\bin\Debug\Content\Arial7.tkb
+E:\Development\MCoding1\MCoding1\obj\Debug\MCoding1.Forms.frmEditor.resources
+E:\Development\MCoding1\MCoding1\bin\Debug\Content\background.tkb
+E:\Development\MCoding1\MCoding1\bin\Debug\Content\bird_straight.tkb
+E:\Development\MCoding1\MCoding1\bin\Debug\Content\points.tkb
+E:\Development\MCoding1\MCoding1\bin\Debug\Content\pipe.tkb
+E:\Development\MCoding1\MCoding1\bin\Debug\Content\bird_down.tkb
+E:\Development\MCoding1\MCoding1\bin\Debug\Content\collision.tkb
+E:\Development\MCoding1\MCoding1\bin\Debug\SharpDX.Toolkit.Audio.dll
+E:\Development\MCoding1\MCoding1\bin\Debug\SharpDX.XAudio2.dll
+E:\Development\MCoding1\MCoding1\bin\Debug\SharpDX.Toolkit.Audio.xml
+E:\Development\MCoding1\MCoding1\bin\Debug\SharpDX.XAudio2.xml
+X:\Schule\Project Mjölnir\LevelEditor\MCoding1\obj\Debug\MCoding1.exe
+X:\Schule\Project Mjölnir\LevelEditor\MCoding1\obj\Debug\MCoding1.pdb
+X:\Schule\Project Mjölnir\LevelEditor\MCoding1\obj\Debug\MCoding1.csprojResolveAssemblyReference.cache
+X:\Schule\Project Mjölnir\LevelEditor\MCoding1\obj\Debug\MCoding1.Forms.frmDebug.resources
+X:\Schule\Project Mjölnir\LevelEditor\MCoding1\obj\Debug\MCoding1.Forms.frmEditor.resources
+X:\Schule\Project Mjölnir\LevelEditor\MCoding1\obj\Debug\MCoding1.Properties.Resources.resources
+X:\Schule\Project Mjölnir\LevelEditor\MCoding1\obj\Debug\MCoding1.csproj.GenerateResource.Cache
+X:\Schule\Project Mjölnir\LevelEditor\MCoding1\bin\Debug\Content\testLevel\testLevel.xml
+X:\Schule\Project Mjölnir\LevelEditor\MCoding1\bin\Debug\Assimp32.dll
+X:\Schule\Project Mjölnir\LevelEditor\MCoding1\bin\Debug\Assimp64.dll
+X:\Schule\Project Mjölnir\LevelEditor\MCoding1\bin\Debug\Content\ground.tkb
+X:\Schule\Project Mjölnir\LevelEditor\MCoding1\bin\Debug\Content\debugLine.tkb
+X:\Schule\Project Mjölnir\LevelEditor\MCoding1\bin\Debug\Content\background.tkb
+X:\Schule\Project Mjölnir\LevelEditor\MCoding1\bin\Debug\Content\bird_straight.tkb
+X:\Schule\Project Mjölnir\LevelEditor\MCoding1\bin\Debug\Content\points.tkb
+X:\Schule\Project Mjölnir\LevelEditor\MCoding1\bin\Debug\Content\pipe.tkb
+X:\Schule\Project Mjölnir\LevelEditor\MCoding1\bin\Debug\Content\bird_down.tkb
+X:\Schule\Project Mjölnir\LevelEditor\MCoding1\bin\Debug\Content\testLevel\ground.tkb
+X:\Schule\Project Mjölnir\LevelEditor\MCoding1\bin\Debug\Content\collision.tkb
+X:\Schule\Project Mjölnir\LevelEditor\MCoding1\bin\Debug\Content\Arial13.tkb
+X:\Schule\Project Mjölnir\LevelEditor\MCoding1\bin\Debug\Content\Arial7.tkb
+X:\Schule\Project Mjölnir\LevelEditor\MCoding1\bin\Debug\MCoding1.exe
+X:\Schule\Project Mjölnir\LevelEditor\MCoding1\bin\Debug\MCoding1.pdb
+X:\Schule\Project Mjölnir\LevelEditor\MCoding1\bin\Debug\SharpDX.D3DCompiler.dll
+X:\Schule\Project Mjölnir\LevelEditor\MCoding1\bin\Debug\SharpDX.Direct2D1.dll
+X:\Schule\Project Mjölnir\LevelEditor\MCoding1\bin\Debug\SharpDX.Direct3D11.dll
+X:\Schule\Project Mjölnir\LevelEditor\MCoding1\bin\Debug\SharpDX.dll
+X:\Schule\Project Mjölnir\LevelEditor\MCoding1\bin\Debug\SharpDX.DXGI.dll
+X:\Schule\Project Mjölnir\LevelEditor\MCoding1\bin\Debug\SharpDX.Toolkit.Audio.dll
+X:\Schule\Project Mjölnir\LevelEditor\MCoding1\bin\Debug\SharpDX.Toolkit.Compiler.dll
+X:\Schule\Project Mjölnir\LevelEditor\MCoding1\bin\Debug\SharpDX.Toolkit.dll
+X:\Schule\Project Mjölnir\LevelEditor\MCoding1\bin\Debug\SharpDX.Toolkit.Game.dll
+X:\Schule\Project Mjölnir\LevelEditor\MCoding1\bin\Debug\SharpDX.Toolkit.Graphics.dll
+X:\Schule\Project Mjölnir\LevelEditor\MCoding1\bin\Debug\SharpDX.Toolkit.Input.dll
+X:\Schule\Project Mjölnir\LevelEditor\MCoding1\bin\Debug\SharpDX.Toolkit.Yaml.dll
+X:\Schule\Project Mjölnir\LevelEditor\MCoding1\bin\Debug\SharpDX.XAudio2.dll
+X:\Schule\Project Mjölnir\LevelEditor\MCoding1\bin\Debug\SharpYaml.dll
+X:\Schule\Project Mjölnir\LevelEditor\MCoding1\bin\Debug\SharpDX.Direct3D9.dll
+X:\Schule\Project Mjölnir\LevelEditor\MCoding1\bin\Debug\AssimpNet.dll
+X:\Schule\Project Mjölnir\LevelEditor\MCoding1\bin\Debug\SharpDX.xml
+X:\Schule\Project Mjölnir\LevelEditor\MCoding1\bin\Debug\SharpDX.D3DCompiler.xml
+X:\Schule\Project Mjölnir\LevelEditor\MCoding1\bin\Debug\SharpDX.Direct2D1.xml
+X:\Schule\Project Mjölnir\LevelEditor\MCoding1\bin\Debug\SharpDX.Direct3D11.xml
+X:\Schule\Project Mjölnir\LevelEditor\MCoding1\bin\Debug\SharpDX.DXGI.xml
+X:\Schule\Project Mjölnir\LevelEditor\MCoding1\bin\Debug\SharpDX.Toolkit.xml
+X:\Schule\Project Mjölnir\LevelEditor\MCoding1\bin\Debug\SharpDX.Toolkit.Audio.xml
+X:\Schule\Project Mjölnir\LevelEditor\MCoding1\bin\Debug\SharpDX.Toolkit.Game.xml
+X:\Schule\Project Mjölnir\LevelEditor\MCoding1\bin\Debug\SharpDX.Toolkit.Graphics.xml
+X:\Schule\Project Mjölnir\LevelEditor\MCoding1\bin\Debug\SharpDX.Toolkit.Input.xml
+X:\Schule\Project Mjölnir\LevelEditor\MCoding1\bin\Debug\SharpDX.Toolkit.Yaml.xml
+X:\Schule\Project Mjölnir\LevelEditor\MCoding1\bin\Debug\SharpDX.XAudio2.xml
+X:\Schule\Project Mjölnir\LevelEditor\MCoding1\bin\Debug\SharpYaml.xml
+X:\Schule\Project Mjölnir\LevelEditor\MCoding1\bin\Debug\SharpDX.Toolkit.Compiler.xml
+X:\Schule\Project Mjölnir\LevelEditor\MCoding1\bin\Debug\SharpDX.Direct3D9.xml
+X:\Schule\Project Mjölnir\LevelEditor\MCoding1\bin\Debug\AssimpNet.xml
+J:\Schule\Project Mjölnir\LevelEditor\MCoding1\obj\Debug\MCoding1.exe
+J:\Schule\Project Mjölnir\LevelEditor\MCoding1\obj\Debug\MCoding1.pdb
+J:\Schule\Project Mjölnir\LevelEditor\MCoding1\bin\Debug\Content\testLevel\testLevel.xml
+J:\Schule\Project Mjölnir\LevelEditor\MCoding1\bin\Debug\Assimp32.dll
+J:\Schule\Project Mjölnir\LevelEditor\MCoding1\bin\Debug\Assimp64.dll
+J:\Schule\Project Mjölnir\LevelEditor\MCoding1\bin\Debug\Content\ground.tkb
+J:\Schule\Project Mjölnir\LevelEditor\MCoding1\bin\Debug\Content\debugLine.tkb
+J:\Schule\Project Mjölnir\LevelEditor\MCoding1\bin\Debug\Content\background.tkb
+J:\Schule\Project Mjölnir\LevelEditor\MCoding1\bin\Debug\Content\bird_straight.tkb
+J:\Schule\Project Mjölnir\LevelEditor\MCoding1\bin\Debug\Content\points.tkb
+J:\Schule\Project Mjölnir\LevelEditor\MCoding1\bin\Debug\Content\pipe.tkb
+J:\Schule\Project Mjölnir\LevelEditor\MCoding1\bin\Debug\Content\bird_down.tkb
+J:\Schule\Project Mjölnir\LevelEditor\MCoding1\bin\Debug\Content\testLevel\ground.tkb
+J:\Schule\Project Mjölnir\LevelEditor\MCoding1\bin\Debug\Content\collision.tkb
+J:\Schule\Project Mjölnir\LevelEditor\MCoding1\bin\Debug\Content\Arial13.tkb
+J:\Schule\Project Mjölnir\LevelEditor\MCoding1\bin\Debug\Content\Arial7.tkb
+J:\Schule\Project Mjölnir\LevelEditor\MCoding1\bin\Debug\MCoding1.exe
+J:\Schule\Project Mjölnir\LevelEditor\MCoding1\bin\Debug\MCoding1.pdb
+J:\Schule\Project Mjölnir\LevelEditor\MCoding1\bin\Debug\SharpDX.D3DCompiler.dll
+J:\Schule\Project Mjölnir\LevelEditor\MCoding1\bin\Debug\SharpDX.Direct2D1.dll
+J:\Schule\Project Mjölnir\LevelEditor\MCoding1\bin\Debug\SharpDX.Direct3D11.dll
+J:\Schule\Project Mjölnir\LevelEditor\MCoding1\bin\Debug\SharpDX.dll
+J:\Schule\Project Mjölnir\LevelEditor\MCoding1\bin\Debug\SharpDX.DXGI.dll
+J:\Schule\Project Mjölnir\LevelEditor\MCoding1\bin\Debug\SharpDX.Toolkit.Audio.dll
+J:\Schule\Project Mjölnir\LevelEditor\MCoding1\bin\Debug\SharpDX.Toolkit.Compiler.dll
+J:\Schule\Project Mjölnir\LevelEditor\MCoding1\bin\Debug\SharpDX.Toolkit.dll
+J:\Schule\Project Mjölnir\LevelEditor\MCoding1\bin\Debug\SharpDX.Toolkit.Game.dll
+J:\Schule\Project Mjölnir\LevelEditor\MCoding1\bin\Debug\SharpDX.Toolkit.Graphics.dll
+J:\Schule\Project Mjölnir\LevelEditor\MCoding1\bin\Debug\SharpDX.Toolkit.Input.dll
+J:\Schule\Project Mjölnir\LevelEditor\MCoding1\bin\Debug\SharpDX.Toolkit.Yaml.dll
+J:\Schule\Project Mjölnir\LevelEditor\MCoding1\bin\Debug\SharpDX.XAudio2.dll
+J:\Schule\Project Mjölnir\LevelEditor\MCoding1\bin\Debug\SharpYaml.dll
+J:\Schule\Project Mjölnir\LevelEditor\MCoding1\bin\Debug\SharpDX.Direct3D9.dll
+J:\Schule\Project Mjölnir\LevelEditor\MCoding1\bin\Debug\AssimpNet.dll
+J:\Schule\Project Mjölnir\LevelEditor\MCoding1\bin\Debug\SharpDX.xml
+J:\Schule\Project Mjölnir\LevelEditor\MCoding1\bin\Debug\SharpDX.D3DCompiler.xml
+J:\Schule\Project Mjölnir\LevelEditor\MCoding1\bin\Debug\SharpDX.Direct2D1.xml
+J:\Schule\Project Mjölnir\LevelEditor\MCoding1\bin\Debug\SharpDX.Direct3D11.xml
+J:\Schule\Project Mjölnir\LevelEditor\MCoding1\bin\Debug\SharpDX.DXGI.xml
+J:\Schule\Project Mjölnir\LevelEditor\MCoding1\bin\Debug\SharpDX.Toolkit.xml
+J:\Schule\Project Mjölnir\LevelEditor\MCoding1\bin\Debug\SharpDX.Toolkit.Audio.xml
+J:\Schule\Project Mjölnir\LevelEditor\MCoding1\bin\Debug\SharpDX.Toolkit.Game.xml
+J:\Schule\Project Mjölnir\LevelEditor\MCoding1\bin\Debug\SharpDX.Toolkit.Graphics.xml
+J:\Schule\Project Mjölnir\LevelEditor\MCoding1\bin\Debug\SharpDX.Toolkit.Input.xml
+J:\Schule\Project Mjölnir\LevelEditor\MCoding1\bin\Debug\SharpDX.Toolkit.Yaml.xml
+J:\Schule\Project Mjölnir\LevelEditor\MCoding1\bin\Debug\SharpDX.XAudio2.xml
+J:\Schule\Project Mjölnir\LevelEditor\MCoding1\bin\Debug\SharpYaml.xml
+J:\Schule\Project Mjölnir\LevelEditor\MCoding1\bin\Debug\SharpDX.Toolkit.Compiler.xml
+J:\Schule\Project Mjölnir\LevelEditor\MCoding1\bin\Debug\SharpDX.Direct3D9.xml
+J:\Schule\Project Mjölnir\LevelEditor\MCoding1\bin\Debug\AssimpNet.xml
+J:\Schule\Project Mjölnir\LevelEditor\MCoding1\obj\Debug\MCoding1.csprojResolveAssemblyReference.cache
+J:\Schule\Project Mjölnir\LevelEditor\MCoding1\obj\Debug\MCoding1.Forms.frmDebug.resources
+J:\Schule\Project Mjölnir\LevelEditor\MCoding1\obj\Debug\MCoding1.Forms.frmEditor.resources
+J:\Schule\Project Mjölnir\LevelEditor\MCoding1\obj\Debug\MCoding1.Properties.Resources.resources
+J:\Schule\Project Mjölnir\LevelEditor\MCoding1\obj\Debug\MCoding1.csproj.GenerateResource.Cache
